@@ -6,12 +6,10 @@
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [travis](https://travis-ci.com/pseudotsuga-401-advanced-javascript/lab-01)
 
 #### Documentation
-* 
+* JSDocs weren't required for this lab but I threw a barebones skeleton in. 
 
   
 #### Tests
