@@ -5,7 +5,7 @@
 ### Author: Conor McCue
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/pseudotsuga-401-advanced-javascript/lab-01/pull/1)
 * [travis](https://travis-ci.com/pseudotsuga-401-advanced-javascript/lab-01)
 
 #### Documentation
